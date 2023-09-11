@@ -1,1 +1,1 @@
-# Early-Prediction-of-Dementia-Alzheimer-s-disease-using-Photoacoustic-Imaging
+# Early-Prediction-of-Dementia-Alzheimer-using-DeepAI-Technology and Photoacoustic-Imaging
